@@ -1,0 +1,22 @@
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore npm's cache
+.npm/
+
+# Ignore log files and other runtime data
+logs/
+*.log
+
+# Ignore the package lock file
+package-lock.json
+
+# Ignore environment-specific configuration files
+.env
+
+# Ignore any local development or build directories
+/build/
+/dist/
+
+# Ignore any generated coverage reports
+coverage/
